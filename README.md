@@ -13,5 +13,5 @@ I'm a Web Developer. And, I'm studying web developer and Mobile at [RockSeat](ht
 
 
 #### Contacts 💬
--  📧 Email: zatera_@hotmail.com
+-  📧 Email: goodverts@hotmail.com
 -  👤 Linkedin: https://www.linkedin.com/in/gabriel-galindo-948b54248/
