@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel Galindo 👋
 
 #### About 📙
-I'm a Web Developer. And, I'm studying web developer and Mobile at [RockSeat](https://www.rocketseat.com.br/)
+I'm a Web Developer. And, I'm studying web developer and Mobile at [Rocktseat](https://www.rocketseat.com.br/)
 
 #### Current Stack 📄
 -  ⚡️ Main language: `Javascript`
